@@ -1,1 +1,29 @@
 
+{
+  "id": "00000000-0000-0000-0000-000000000000",
+  "name": "New Project",
+  "sources": [
+    {
+      "id": "55c90e57-491d-4c24-a9ba-eda6eab395ea",
+      "name": "default",
+      "kind": {
+        "kind": "AmlEditor"
+      },
+      "content": [],
+      "tables": [],
+      "relations": [],
+      "createdAt": 1702191987197,
+      "updatedAt": 1702191987197
+    }
+  ],
+  "layouts": {
+    "initial layout": {
+      "tables": [],
+      "createdAt": 1702191987197,
+      "updatedAt": 1702191987197
+    }
+  },
+  "createdAt": 1702191988436,
+  "updatedAt": 1702191988436,
+  "version": 2
+}
